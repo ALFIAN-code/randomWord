@@ -1,6 +1,6 @@
-# belajar2
+# randomWord
 
-A new Flutter project.
+ini adalah aplikasi berbasis flutter pertama saya, apliaksi pertama saya lebih tepatnya, hasil dari belajar di website sekolahkoding.com
 
 ## Getting Started
 
