@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:english_words/english_words.dart';
-import 'savedPageScreen.dart';
+import 'savedWordScreen.dart';
 
 class randomWord extends StatefulWidget {
   @override
